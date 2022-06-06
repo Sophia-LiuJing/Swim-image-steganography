@@ -1,5 +1,6 @@
 ## Introduction
 This project is the open source code for the paper titled "Deep image steganography using transformer and recursive permutation". It implements an image steganography model based on Swim-Transformer and chaotic recursive scrambling encryption.
+<img src = 'model.png'>
 ## Dependencies & Installation & Usage
 1. Clone or download this repository
 
